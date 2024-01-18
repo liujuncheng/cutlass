@@ -790,3 +790,5 @@ install(
 ################################################################################
 
 include(${CMAKE_CURRENT_SOURCE_DIR}/cmake/NvidiaCutlassPackageConfig.cmake)
+
+TEST
